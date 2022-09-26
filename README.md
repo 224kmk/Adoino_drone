@@ -1,5 +1,5 @@
 # 아두이노 드론 인공지능으로 PID 제어하기
-![KakaoTalk_20220926_164004926_02](https://user-images.githubusercontent.com/63223796/192220301-81d5533b-fc2c-4033-8d9c-2b43f58144df.jpg)
+![KakaoTalk_20220926_164004926_02](https://user-images.githubusercontent.com/63223796/192220301-81d5533b-fc2c-4033-8d9c-2b43f58144df.jpg, width="300", height="300")
 
 ## 아두이노 드론
 - 아두이노 보드 ESP32 사용하였다. 아두이노 스케치를 활용하여 코딩하였다.
