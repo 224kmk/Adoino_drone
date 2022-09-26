@@ -1,5 +1,4 @@
 # 아두이노 드론 인공지능으로 PID 제어하기
-<img src="https://github.com/224kmk/Adoino_drone/blob/main/img/drone.jpg" width="300" height="300">
 
 ## 아두이노 드론
 - 아두이노 보드 ESP32 사용하였다. 아두이노 스케치를 활용하여 코딩하였다.
@@ -20,5 +19,7 @@
 - 아두이노 드론을 인공지능으로 사용하여 자율 비행하기까지 굉장히 재미있고 새로운 경험이었다.
 - 추후에는 원격으로 조종할 수 있도록 할 것이다.
 
+<img src="https://github.com/224kmk/Adoino_drone/blob/main/img/drone.jpg" width="300" height="300">
 
-사진 참고 - https://ko.wikipedia.org/wiki/PID_%EC%A0%9C%EC%96%B4%EA%B8%B0
+
+PID 사진 참고 - https://ko.wikipedia.org/wiki/PID_%EC%A0%9C%EC%96%B4%EA%B8%B0
